@@ -38,7 +38,7 @@ First of all SAMURAI-CAM-VIP tool host a phishing site on attacker local network
 To install EL_SAMURAI_CAM Tool you have to open termux :
 
 ```bash
-https://github.com/EL-Samurai-Hacking/CAMERA-VIP
+git clone https://github.com/EL-Samurai-Hacking/CAMERA-VIP
 cd CAMERA-VIP
 bash installmad.sh
 bash EL_SAMURAI_CAM.sh
