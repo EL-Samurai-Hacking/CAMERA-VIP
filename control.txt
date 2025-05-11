@@ -1,0 +1,4 @@
+status:on
+version:3.0
+password:1234
+banned:
