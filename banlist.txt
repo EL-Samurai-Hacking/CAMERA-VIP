@@ -1,2 +1,1 @@
 # حط HWIDs هنا كل واحد في سطر
-u0_a645@localhost
